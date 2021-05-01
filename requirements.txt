@@ -54,7 +54,7 @@ sklearn-crfsuite==0.3.6
 tabulate==0.8.7
 tensorboard==2.2.2
 tensorboard-plugin-wit==1.6.0.post3
-tensorflow==2.2.0
+tensorflow==2.4.0
 tensorflow-addons==0.10.0
 tensorflow-estimator==2.2.0
 tensorflow-gpu==2.2.0
