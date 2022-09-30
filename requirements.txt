@@ -16,7 +16,7 @@ grpcio==1.29.0
 h5py==2.10.0
 idna==2.9
 importlib-metadata==1.6.1
-joblib==0.15.1
+joblib==1.2.0
 Keras==2.3.1
 Keras-Applications==1.0.8
 keras-contrib @ git+https://www.github.com/keras-team/keras-contrib.git@3fc5ef709e061416f4bc8a92ca3750c824b5d2b0
